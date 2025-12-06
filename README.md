@@ -326,9 +326,6 @@ python tools/trace_analyzer.py --output flamegraph.svg
 
 **作者：** 張為凱  
 **Email：** a0966204830@gmail.com  
-**LinkedIn：** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
-**GitHub：** [@yourusername](https://github.com/yourusername)
-
 
 ## ⭐ 給個 Star？
 
