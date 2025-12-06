@@ -7,8 +7,6 @@
 [![License](https://img.shields.io/badge/license-MIT-yellow.svg)](LICENSE)
 [![Demo](https://img.shields.io/badge/demo-live-success)](https://your-username.github.io/robot-sim)
 
-**[English](#english) | [中文](#中文)**
-
 完整的韌體到 GPU 軟體堆疊，展示異構運算在即時機器人控制中的應用
 
 **無需硬體 · 完全模擬 · 真實性能**
