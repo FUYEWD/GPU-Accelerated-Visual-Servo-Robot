@@ -320,18 +320,15 @@ python tools/trace_analyzer.py --output flamegraph.svg
 - 📘 **[API 參考手冊](docs/API_REFERENCE.md)** - 完整 API 文件
 - 🔧 **[開發指南](docs/DEVELOPMENT.md)** - 貢獻與擴展
 
----
-
 ## 🤝 貢獻與聯絡
 
 **歡迎貢獻：** 新運動學模型 · 視覺算法 · 硬體整合 · 優化技術
 
-**作者：** [你的名字]  
-**Email：** your.email@example.com  
+**作者：** 張為凱  
+**Email：** a0966204830@gmail.com  
 **LinkedIn：** [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
 **GitHub：** [@yourusername](https://github.com/yourusername)
 
----
 
 ## ⭐ 給個 Star？
 
@@ -339,45 +336,10 @@ python tools/trace_analyzer.py --output flamegraph.svg
 
 這能幫助更多人發現這個專案！
 
----
-
 <div align="center">
 
 **用 ❤️ 為嵌入式系統與機器人工程師打造**
 
 MIT License · 2024
 
----
 
-# English
-
-**A complete firmware-to-GPU software stack for real-time robotic visual servo control**
-
-**No Hardware Required · Pure Software · Realistic Performance**
-
-## 🚀 Quick Start
-
-```bash
-git clone https://github.com/your-username/gpu-visual-servo-robot.git
-cd gpu-visual-servo-robot
-pip install -r requirements.txt
-cd firmware && mkdir build && cd build && cmake .. && make && cd ../..
-python demos/demo1_object_tracking.py
-```
-
-## 🎯 Key Features
-
-- ✅ ARM Cortex-M firmware architecture with HAL abstraction
-- ✅ CPU-GPU async communication (DMA, callbacks, zero-copy)
-- ✅ CUDA kernel implementation for image processing
-- ✅ TensorRT model optimization (FP32/FP16/INT8)
-- ✅ Low-latency control loop (< 15ms end-to-end)
-- ✅ Comprehensive performance profiling and benchmarking
-
-## 📊 Performance
-
-**21.9× GPU speedup** · **89 Hz control frequency** · **11.2 ms latency** · **1.8 mm tracking error**
-
-For complete English documentation, see [docs/](docs/) directory.
-
-</div>
