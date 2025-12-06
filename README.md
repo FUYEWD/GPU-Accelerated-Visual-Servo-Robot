@@ -340,6 +340,6 @@ python tools/trace_analyzer.py --output flamegraph.svg
 
 **用 ❤️ 為嵌入式系統與機器人工程師打造**
 
-MIT License · 2024
+MIT License · 2025
 
 
